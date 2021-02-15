@@ -9,7 +9,7 @@ from setuptools import setup
 
 setup(
     name="dice",
-    version="0.0.1",
+    version="0.1.1",
     author="Owen Flood",
     author_email="owen.flood@columbia.edu",
     description="A package for rolling dice",
