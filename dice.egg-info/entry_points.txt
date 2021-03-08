@@ -1,3 +1,0 @@
-[console_scripts]
-roll = dice.__main__:main
-
